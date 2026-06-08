@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026060817031722FE85</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608170317CSYH9J</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA 2 - NO FUMAR ES BIEN</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>UD 2 - LOS APARATOS IMPLICADOS EN LA FUNCIÓN DE NUTRICIÓN</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elizabeth Bárbara Mayo Alarcón</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Dentro de la UD que engloba a todos los aparatos y sistemas implicados en la función de nutrición, en esta SdA concreta nos vamos a centrar en el APARATO RESPIRATORIO. 
+
+Estudiaremos y analizaremos los siguientes aspectos:
+- Anatomía y fisiología del mismo. 
+- Principales enfermedades y trastornos. 
+- Hábitos saludables y hábitos nocivos/perjudiciales. 
+
+Esta SdA se desarrollará a lo largo de 6 sesiones.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780930954553</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq5cb35d-bw5geeed6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35d-bw5geeed6</odePageId>
+      <odeBlockId>block-1780911196548-yhldr3c9z</odeBlockId>
+      <blockName></blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35d-bw5geeed6</odePageId>
+          <odeBlockId>block-1780911196548-yhldr3c9z</odeBlockId>
+          <odeIdeviceId>idevice-1780911196547-d2r2dok48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Imagen portada.webp" title="Portada" width="795" height="417" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780911196547-d2r2dok48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Imagen portada.webp\" title=\"Portada\" width=\"795\" height=\"417\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35g-kgua4446c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de nuestra SdA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de nuestra SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de nuestra SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de nuestra SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35g-kgua4446c</odePageId>
+      <odeBlockId>block-1780577089474-3ixauv24z</odeBlockId>
+      <blockName>¿Qué vamos a trabajar y aprender? ¿Durante cuántas
+sesiones?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35g-kgua4446c</odePageId>
+          <odeBlockId>block-1780577089474-3ixauv24z</odeBlockId>
+          <odeIdeviceId>idevice-1780577089472-sa79cdmvh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dentro de la UD que engloba a todos los aparatos y sistemas implicados en la función de nutrición, en esta SdA concreta nos vamos a centrar en el APARATO RESPIRATORIO.</p>
+<p>Estudiaremos y analizaremos los siguientes aspectos:<br />- Anatomía y fisiología del mismo. <br />- Principales enfermedades y trastornos. <br />- Hábitos saludables y hábitos nocivos/perjudiciales. </p>
+<p>Esta SdA se desarrollará a lo largo de 6 sesiones.</p>
+<p><img src="{{context_path}}/content/resources/El viaje de la nutrición.png" title="El viaje de la nutrición" width="662" height="370" alt="Imagen ilustrativa del camino que sigue el viaje de la nutrición" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Aquí tenéis el enlace a la <a href="https://drive.google.com/file/d/1xjFepWkSqeI8ASyv3_fHESopYD2gN1lT/view?usp=sharing" title="2.1. Comenzamos nuestro proyecto - Elizabeth Bárbara Mayo Alarcón.pdf">presentación y descripción del proyecto</a>.  </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780577089472-sa79cdmvh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dentro de la UD que engloba a todos los aparatos y sistemas implicados en la función de nutrición, en esta SdA concreta nos vamos a centrar en el APARATO RESPIRATORIO.</p>\n<p>Estudiaremos y analizaremos los siguientes aspectos:<br />- Anatomía y fisiología del mismo. <br />- Principales enfermedades y trastornos. <br />- Hábitos saludables y hábitos nocivos/perjudiciales. </p>\n<p>Esta SdA se desarrollará a lo largo de 6 sesiones.</p>\n<p><img src=\"{{context_path}}/content/resources/El viaje de la nutrición.png\" title=\"El viaje de la nutrición\" width=\"662\" height=\"370\" alt=\"Imagen ilustrativa del camino que sigue el viaje de la nutrición\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Aquí tenéis el enlace a la <a href=\"https://drive.google.com/file/d/1xjFepWkSqeI8ASyv3_fHESopYD2gN1lT/view?usp=sharing\" title=\"2.1. Comenzamos nuestro proyecto - Elizabeth Bárbara Mayo Alarcón.pdf\">presentación y descripción del proyecto</a>.  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35h-3xn0nuo4c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y vuestras garantías de derechos digitales </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y vuestras garantías de derechos digitales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y vuestras garantías de derechos digitales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35h-3xn0nuo4c</odePageId>
+      <odeBlockId>block-1780582989818-c93sr1ce6</odeBlockId>
+      <blockName>Nuestros derechos</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35h-3xn0nuo4c</odePageId>
+          <odeBlockId>block-1780582989818-c93sr1ce6</odeBlockId>
+          <odeIdeviceId>idevice-1780582989816-mbc3znml5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ya sabéis que, al ser menores de edad, tenéis derecho tanto a vuestra protección de datos como a garantizar también vuestros derechos de autoría digitales, debido al uso de distintas plataformas, páginas y apps. </p>
+<p>En este documento, encontraréis dichos <a href="https://drive.google.com/file/d/1n84iTQaSSrLJK00adj5ScWfxzSSNNrCP/view?usp=sharing" title="2.3. Infografía Elizabeth B. Mayo Alarcón.pdf">derechos de protección</a> ;) </p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" width="321" height="543" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780582989816-mbc3znml5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ya sabéis que, al ser menores de edad, tenéis derecho tanto a vuestra protección de datos como a garantizar también vuestros derechos de autoría digitales, debido al uso de distintas plataformas, páginas y apps. </p>\n<p>En este documento, encontraréis dichos <a href=\"https://drive.google.com/file/d/1n84iTQaSSrLJK00adj5ScWfxzSSNNrCP/view?usp=sharing\" title=\"2.3. Infografía Elizabeth B. Mayo Alarcón.pdf\">derechos de protección</a> ;) </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"321\" height=\"543\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35j-9m9cydziq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35j-9m9cydziq</odePageId>
+      <odeBlockId>block-1780583592826-mlntinz03</odeBlockId>
+      <blockName>¿Qué vais a elaborar? ¿Cómo?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35j-9m9cydziq</odePageId>
+          <odeBlockId>block-1780583592826-mlntinz03</odeBlockId>
+          <odeIdeviceId>idevice-1780583592824-ptrruv1wb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final (PF) será un <strong>folleto informativo</strong> acerca de la necesidad de desarrollar hábitos saludables para prevenir trastornos y enfermedades del aparato respiratorio o bien, acerca de una enfermedad o trastorno del mismo (incluyendo en qué consiste, diagnóstico, síntomas, tratamiento y prevención).</p>
+<p>Esto lo haréis con <strong>Canva</strong>, puesto que es una herramienta online que podéis utilizar tanto en el centro, con los dispositivos electrónicos que hay (táblets y/o portátiles, como en vuestra casa con cualquier dispositivo del que dispongáis). Además, desarrollaréis cuestionarios en <strong>Edpuzzle</strong> (si quieréis vinculadlos a algún vídeo de Youtube sobre el tema que tratéis) o bien puedéis realizar un <strong>Google Forms</strong> y pasarlo a través de vuestras cuentas de Educaand al <strong>Classroom </strong>del grupo-clase. Tanto el cuestionario Edpuzzle como el Google Forms, os permitirá trabajarlo desde cualquier dispositivo y en cualquier momento, ofreciendo la posibilidad de edición por parte de cualquier miembro del equipo de trabajo (al igual que ocurre con Canva).</p>
+<p>A continuación podéis ver un <a href="https://drive.google.com/file/d/1_U1sRf8YEqsGs5_a46rEj8aO2j5pzuoj/view?usp=sharing" title="">ejemplo de tríptico de enfermedades</a>: </p>
+<p><img src="{{context_path}}/content/resources/Ejemplo tríptico de enfermedades.png" title="Ejemplo tríptico de enfermedades" width="788" height="609" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780583592824-ptrruv1wb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final (PF) será un <strong>folleto informativo</strong> acerca de la necesidad de desarrollar hábitos saludables para prevenir trastornos y enfermedades del aparato respiratorio o bien, acerca de una enfermedad o trastorno del mismo (incluyendo en qué consiste, diagnóstico, síntomas, tratamiento y prevención).</p>\n<p>Esto lo haréis con <strong>Canva</strong>, puesto que es una herramienta online que podéis utilizar tanto en el centro, con los dispositivos electrónicos que hay (táblets y/o portátiles, como en vuestra casa con cualquier dispositivo del que dispongáis). Además, desarrollaréis cuestionarios en <strong>Edpuzzle</strong> (si quieréis vinculadlos a algún vídeo de Youtube sobre el tema que tratéis) o bien puedéis realizar un <strong>Google Forms</strong> y pasarlo a través de vuestras cuentas de Educaand al <strong>Classroom </strong>del grupo-clase. Tanto el cuestionario Edpuzzle como el Google Forms, os permitirá trabajarlo desde cualquier dispositivo y en cualquier momento, ofreciendo la posibilidad de edición por parte de cualquier miembro del equipo de trabajo (al igual que ocurre con Canva).</p>\n<p>A continuación podéis ver un <a href=\"https://drive.google.com/file/d/1_U1sRf8YEqsGs5_a46rEj8aO2j5pzuoj/view?usp=sharing\" title=\"\">ejemplo de tríptico de enfermedades</a>: </p>\n<p><img src=\"{{context_path}}/content/resources/Ejemplo tríptico de enfermedades.png\" title=\"Ejemplo tríptico de enfermedades\" width=\"788\" height=\"609\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5cb35j-9m9cydziq</odePageId>
+      <odeBlockId>block-1780584262497-7m7n7vv73</odeBlockId>
+      <blockName>El aparato respiratorio</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35j-9m9cydziq</odePageId>
+          <odeBlockId>block-1780584262497-7m7n7vv73</odeBlockId>
+          <odeIdeviceId>idevice-1780584262493-46vbobqpj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780584262493-46vbobqpj" title="" href="{{context_path}}/content/resources/Sistema_respiratorio.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Sistema_respiratorio.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780584262493-46vbobqpj","img_0":{"img":"{{context_path}}/content/resources/Sistema_respiratorio.jpg","thumbnail":"{{context_path}}/content/resources/Sistema_respiratorio.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35k-f159nslmu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35k-f159nslmu</odePageId>
+      <odeBlockId>block-1780585235406-elzfrmelm</odeBlockId>
+      <blockName>Herramientas para el desarrollo de vuestros PF</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35k-f159nslmu</odePageId>
+          <odeBlockId>block-1780585235406-elzfrmelm</odeBlockId>
+          <odeIdeviceId>idevice-1780585235402-ms3812f9j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, encontraréis muchos recursos que vais a utilizar a lo largo del desarrollo de la SdA (como es el vídeo de "Los aparatos implicados en la función de nutrición", que también tenéis en Classroom; cuestionarios de autoevaluación, páginas de interés para el desarrollo de vuestros PF...). </p>
+<p>Este es el enlace al <a href="https://padlet.com/emayala194x/folletos-informativos-aparato-respiratorio-de-cada-grupo-rdl1rftcnlmz5sk8" title="">Padlet colaborativo</a>. Y este, el enlace al <a href="https://docs.google.com/document/d/1kXxIDACTMLTi7sDTlskLDqNg_9yjFdr57qZ71-lO_q8/edit?usp=sharing">Google Docs</a> que contiene, a su vez, todos los enlaces de todas las herramientas que os propongo. </p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780585235402-ms3812f9j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, encontraréis muchos recursos que vais a utilizar a lo largo del desarrollo de la SdA (como es el vídeo de \"Los aparatos implicados en la función de nutrición\", que también tenéis en Classroom; cuestionarios de autoevaluación, páginas de interés para el desarrollo de vuestros PF...). </p>\n<p>Este es el enlace al <a href=\"https://padlet.com/emayala194x/folletos-informativos-aparato-respiratorio-de-cada-grupo-rdl1rftcnlmz5sk8\" title=\"\">Padlet colaborativo</a>. Y este, el enlace al <a href=\"https://docs.google.com/document/d/1kXxIDACTMLTi7sDTlskLDqNg_9yjFdr57qZ71-lO_q8/edit?usp=sharing\">Google Docs</a> que contiene, a su vez, todos los enlaces de todas las herramientas que os propongo. </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35l-w8z5hbxbh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Relacionamos tareas con criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relacionamos tareas con criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relacionamos tareas con criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35l-w8z5hbxbh</odePageId>
+      <odeBlockId>block-1780585976090-r6hby3m64</odeBlockId>
+      <blockName>Secuenciación didáctica y solución a fallos TIC</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35l-w8z5hbxbh</odePageId>
+          <odeBlockId>block-1780585976090-r6hby3m64</odeBlockId>
+          <odeIdeviceId>idevice-1780585976088-9ixuwvabz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/Comming soon.jpg" title="Comming soon" width="175" height="98" alt="" /></p>
+<p>En este enlace encontraréis cómo vamos a trabajar en cada una de las <a href="https://docs.google.com/document/d/14cTcsiIvzkLwsJhWKEfFLH6Uv7bKGrjuhFVys2ysRyY/edit?usp=sharing" title="">6 sesiones</a>, sabiendo qué se va a trabajar en cada una de las sesiones, es decir, tanto las tareas a desarrollar como los criterios de evaluación que irán vinculadas a cada una de esas tareas. </p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Work in progress.png" title="Work in progress" width="263" height="165" alt="" /></p>
+<p>  </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780585976088-9ixuwvabz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Comming soon.jpg\" title=\"Comming soon\" width=\"175\" height=\"98\" alt=\"\" /></p>\n<p>En este enlace encontraréis cómo vamos a trabajar en cada una de las <a href=\"https://docs.google.com/document/d/14cTcsiIvzkLwsJhWKEfFLH6Uv7bKGrjuhFVys2ysRyY/edit?usp=sharing\" title=\"\">6 sesiones</a>, sabiendo qué se va a trabajar en cada una de las sesiones, es decir, tanto las tareas a desarrollar como los criterios de evaluación que irán vinculadas a cada una de esas tareas. </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Work in progress.png\" title=\"Work in progress\" width=\"263\" height=\"165\" alt=\"\" /></p>\n<p>  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35l-fp1n3qozx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35l-fp1n3qozx</odePageId>
+      <odeBlockId>block-1780594377506-i72rrygbz</odeBlockId>
+      <blockName>Estructuración de las sesiones</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35l-fp1n3qozx</odePageId>
+          <odeBlockId>block-1780594377506-i72rrygbz</odeBlockId>
+          <odeIdeviceId>idevice-1780594377503-35at2x5oe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este enlace que os pongo a continuación, tendréis acceso a la <a href="https://drive.google.com/file/d/1pAKza_STssvswIBqnv8g9c1r7kkhwk-A/view?usp=sharing" title="MAPA MENTAL - línea temporal">estructuración de las sesiones</a>. </p>
+<p>Ya sabéis que está hecho con la aplicación de Algor education, teniendo en cuenta la secuencia didáctica establecida en la pestaña anterior de esta presentación. </p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780594377503-35at2x5oe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este enlace que os pongo a continuación, tendréis acceso a la <a href=\"https://drive.google.com/file/d/1pAKza_STssvswIBqnv8g9c1r7kkhwk-A/view?usp=sharing\" title=\"MAPA MENTAL - línea temporal\">estructuración de las sesiones</a>. </p>\n<p>Ya sabéis que está hecho con la aplicación de Algor education, teniendo en cuenta la secuencia didáctica establecida en la pestaña anterior de esta presentación. </p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35m-xnqgwd7ra</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35m-xnqgwd7ra</odePageId>
+      <odeBlockId>block-1780598545844-quwg1cqid</odeBlockId>
+      <blockName>Evaluación de la SdA</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35m-xnqgwd7ra</odePageId>
+          <odeBlockId>block-1780598545844-quwg1cqid</odeBlockId>
+          <odeIdeviceId>idevice-1780598545843-dwzqc9oko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de esta SdA en competencial y criterial, como ya sabéis que se hace habitualmente. Las notas de cada instrumento las subiré al cuaderno de Séneca y se las publicaré a vuestras familias (al igual que hago en todas las Sda). </p>
+<p>Aquí tenéis un esquema de lo que se va a evaluar y con qué instrumento, así como los criterios de evaluación que llevan asociados: </p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip1_2.png" width="483" height="310" /></p>
+<p style="text-align: left;">A continuación, encontráis el enlace que os explica al detalle dos de los instrumentos de evaluación de esta SdA, que son la <a href="https://docs.google.com/document/d/17jTPEXi1jaBLB6v3U7MFmoyF3qadEXvihqYm2-D8y64/edit?usp=sharing" title="">"Escala de valoración numérica" de la práctica y la "Rúbrica" del PF</a>. Además, tenéis un análisis valorativo de la idoneidad de dichos instrumentos, así como la tabla de valoración de la escala numérica (también tenéis una reflexión de por qué dicho instrumento es mejor que una lista de cotejo para evaluar la práctica de laboratorio) y la rúbrica. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780598545843-dwzqc9oko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de esta SdA en competencial y criterial, como ya sabéis que se hace habitualmente. Las notas de cada instrumento las subiré al cuaderno de Séneca y se las publicaré a vuestras familias (al igual que hago en todas las Sda). </p>\n<p>Aquí tenéis un esquema de lo que se va a evaluar y con qué instrumento, así como los criterios de evaluación que llevan asociados: </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip1_2.png\" width=\"483\" height=\"310\" /></p>\n<p style=\"text-align: left;\">A continuación, encontráis el enlace que os explica al detalle dos de los instrumentos de evaluación de esta SdA, que son la <a href=\"https://docs.google.com/document/d/17jTPEXi1jaBLB6v3U7MFmoyF3qadEXvihqYm2-D8y64/edit?usp=sharing\" title=\"\">\"Escala de valoración numérica\" de la práctica y la \"Rúbrica\" del PF</a>. Además, tenéis un análisis valorativo de la idoneidad de dichos instrumentos, así como la tabla de valoración de la escala numérica (también tenéis una reflexión de por qué dicho instrumento es mejor que una lista de cotejo para evaluar la práctica de laboratorio) y la rúbrica. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35n-f1hmwig2c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35n-f1hmwig2c</odePageId>
+      <odeBlockId>block-1780909110858-7lntcqm2h</odeBlockId>
+      <blockName>Todo lo que necesitas saber de esta SdA</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35n-f1hmwig2c</odePageId>
+          <odeBlockId>block-1780909110858-7lntcqm2h</odeBlockId>
+          <odeIdeviceId>idevice-1780909110856-ntjn6hdpp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí podéis encontrar la <a href="https://drive.google.com/file/d/14KanC-TBJmwiLVgb56Fmp8AEZJup0TXO/view?usp=sharing" title="">guía didáctica</a> completa que os da toda la info que necesitáis conocer de esta SdA. </p>
+<p><img src="{{context_path}}/content/resources/Sistema respiratorio.webp" title="Sistema Respiratorio Humano" width="546" height="769" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780909110856-ntjn6hdpp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podéis encontrar la <a href=\"https://drive.google.com/file/d/14KanC-TBJmwiLVgb56Fmp8AEZJup0TXO/view?usp=sharing\" title=\"\">guía didáctica</a> completa que os da toda la info que necesitáis conocer de esta SdA. </p>\n<p><img src=\"{{context_path}}/content/resources/Sistema respiratorio.webp\" title=\"Sistema Respiratorio Humano\" width=\"546\" height=\"769\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5cb35n-g0oaqdbd9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5cb35n-g0oaqdbd9</odePageId>
+      <odeBlockId>block-1780911280906-te2l1osoh</odeBlockId>
+      <blockName>Bibliografía y Webgrafía</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5cb35n-g0oaqdbd9</odePageId>
+          <odeBlockId>block-1780911280906-te2l1osoh</odeBlockId>
+          <odeIdeviceId>idevice-1780911280904-peupugcjc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>·      <strong> Imagen PORTADA</strong> – BIOLOGÍA Y GEOLOGÍA. MATERIAL DIDÁCTICO ESO Y BACHILLERATO. 2026. <em>El aparato respiratorio</em>. <a href="https://soclalluna.com/eso/biologia-3o-eso/v-cuerpo-humano/ud03-aparatos-para-la-funcion-de-nutricion/el-aparato-respiratorio/">https://soclalluna.com/eso/biologia-3o-eso/v-cuerpo-humano/ud03-aparatos-para-la-funcion-de-nutricion/el-aparato-respiratorio/</a> </p>
+<p>·       <strong>Ejemplo tríptico</strong> – Studocu. <em>Resfriado común y otros virus respiratorios.</em> 2024. https://www.studocu.com/bo/account/activate </p>
+<p>·       <strong>Lectura</strong> - <strong>Asociación española Contra el Cáncer</strong>. Sep. 5, 2022. <em>El tabaco entre los adolescentes españoles.</em> <a href="https://blog.contraelcancer.es/adolescentes-tabaco/">https://blog.contraelcancer.es/adolescentes-tabaco/</a> </p>
+<p>·       <strong>Logo WORK IN PROGRESS</strong> - Spotahome. <em>La falacia del trabajo en progreso y el poder de los límites del WIP</em>. 2022. <a href="https://product.spotahome.com/the-work-in-progress-falacy-and-the-power-of-wip-limits-cfa191b541b5">https://product.spotahome.com/the-work-in-progress-falacy-and-the-power-of-wip-limits-cfa191b541b5</a> </p>
+<p>·      <strong> Logo COMING SOON</strong> - Shutterstock. <em>Coming son signs</em>. 2026. <a href="https://www.shutterstock.com/es/search/coming-soon-signs?image_type=vector&dd_referrer=https%3A%2F%2Fwww.google.com%2F">https://www.shutterstock.com/es/search/coming-soon-signs?image_type=vector&dd_referrer=https%3A%2F%2Fwww.google.com%2F</a> </p>
+<p>·       <strong>Imagen guía didáctica</strong> – Knownity. <em>Sistema Respiratorio Humano: Funciones y enfermedades.</em> 2026. <a href="https://knowunity.es/knows/anatoma-aparato-respiratorio-2820bb1b-fb41-4878-8657-b7debfcf5541">https://knowunity.es/knows/anatoma-aparato-respiratorio-2820bb1b-fb41-4878-8657-b7debfcf5541</a> </p>
+<p>·       <strong>Normativa para la Sda</strong>  - <em>Anexo II: Orden 30 de mayo de 2023. Biología y Geología</em>. <a href="https://ws040.juntadeandalucia.es/sedeboja/web/textos-consolidados/resumen-ficha?p_p_id=resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet&p_p_lifecycle=0&_resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet_recursoLegalAbstractoId=34758">https://ws040.juntadeandalucia.es/sedeboja/web/textos-consolidados/resumen-ficha?p_p_id=resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet&p_p_lifecycle=0&_resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet_recursoLegalAbstractoId=34758 </a></p>
+<ul>
+<li><strong>VÍDEO FLIPPED-CLASSROOM</strong> - <a href="https://drive.google.com/file/d/1RW-C_sr2KWuYqxCDUAWDhHQ1nVwWabdL/view?usp=sharing">https://drive.google.com/file/d/1RW-C_sr2KWuYqxCDUAWDhHQ1nVwWabdL/view?usp=sharing</a></li>
+<li> <strong>EL PROCESO RESPIRATORIO</strong> - <a href="https://drive.google.com/file/d/1MqTaTwSbjOHFCWGvAlzoVV_5moF7kbA6/view?usp=sharing">https://drive.google.com/file/d/1MqTaTwSbjOHFCWGvAlzoVV_5moF7kbA6/view?usp=sharing</a></li>
+<li> <strong>Ficha REPASO Actividades APARATO RESPIRATORIO</strong> - <a href="https://drive.google.com/file/d/1hzc54qcahIjRW7d3qfgcA6yIka0RPWZx/view?usp=sharing">https://drive.google.com/file/d/1hzc54qcahIjRW7d3qfgcA6yIka0RPWZx/view?usp=sharing</a></li>
+<li> <strong>Actividades REFUERZO APARATO RESPIRATORIO</strong>  - <a href="https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing">https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing </a></li>
+<li><strong>REPASO ACTIVIDADES APARATO RESPIRATORIO</strong> - <a href="https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing">https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing </a></li>
+<li><strong>Ficha interactiva LIVEWORKSHEET</strong> - <a href="https://www.liveworksheets.com/es/worksheet/es/biologia/171776">https://www.liveworksheets.com/es/worksheet/es/biologia/171776 </a></li>
+<li><strong>AUTOEVALUACIÓN APARATO RESPIRATORIO Y RESPIRACIÓN </strong>- <a href="https://biologia-geologia.com/BG3/45_autoevaluacion_aparato_respiratorio.html">https://biologia-geologia.com/BG3/45_autoevaluacion_aparato_respiratorio.html </a></li>
+<li><strong>Infecciones respiratorias</strong> - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7143692/">https://pmc.ncbi.nlm.nih.gov/articles/PMC7143692/ </a></li>
+<li><strong>Enfermedades respiratorias</strong> - <a href="https://www.synlab-sd.com/es/blog/salud-y-bienestar-es/enfermedades-respiratorias-entienda-que-tipos-de-enfermedades-existen-cuales-son-sus-sintomas-y-que-debe-hacer-para-prevenirlas/">https://www.synlab-sd.com/es/blog/salud-y-bienestar-es/enfermedades-respiratorias-entienda-que-tipos-de-enfermedades-existen-cuales-son-sus-sintomas-y-que-debe-hacer-para-prevenirlas/ </a></li>
+<li><strong>Infecciones virales respiratorias</strong> - <a href="https://www.mskcc.org/es/cancer-care/patient-education/respiratory-infections">https://www.mskcc.org/es/cancer-care/patient-education/respiratory-infections</a></li>
+<li><strong> Enfermedades de los pulmones</strong> - <a href="https://medlineplus.gov/spanish/lungdiseases.html">https://medlineplus.gov/spanish/lungdiseases.html </a></li>
+<li><strong>7 hábitos para que tu sistema respiratorio funcione correctamente</strong> - <a href="https://www.apepoc.es/actualidad/551-7-habitos-para-que-tu-sistema-respiratorio-funcione-correctamente">https://www.apepoc.es/actualidad/551-7-habitos-para-que-tu-sistema-respiratorio-funcione-correctamente </a></li>
+</ul>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780911280904-peupugcjc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>·      <strong> Imagen PORTADA</strong> – BIOLOGÍA Y GEOLOGÍA. MATERIAL DIDÁCTICO ESO Y BACHILLERATO. 2026. <em>El aparato respiratorio</em>. <a href=\"https://soclalluna.com/eso/biologia-3o-eso/v-cuerpo-humano/ud03-aparatos-para-la-funcion-de-nutricion/el-aparato-respiratorio/\">https://soclalluna.com/eso/biologia-3o-eso/v-cuerpo-humano/ud03-aparatos-para-la-funcion-de-nutricion/el-aparato-respiratorio/</a> </p>\n<p>·       <strong>Ejemplo tríptico</strong> – Studocu. <em>Resfriado común y otros virus respiratorios.</em> 2024. https://www.studocu.com/bo/account/activate </p>\n<p>·       <strong>Lectura</strong> - <strong>Asociación española Contra el Cáncer</strong>. Sep. 5, 2022. <em>El tabaco entre los adolescentes españoles.</em> <a href=\"https://blog.contraelcancer.es/adolescentes-tabaco/\">https://blog.contraelcancer.es/adolescentes-tabaco/</a> </p>\n<p>·       <strong>Logo WORK IN PROGRESS</strong> - Spotahome. <em>La falacia del trabajo en progreso y el poder de los límites del WIP</em>. 2022. <a href=\"https://product.spotahome.com/the-work-in-progress-falacy-and-the-power-of-wip-limits-cfa191b541b5\">https://product.spotahome.com/the-work-in-progress-falacy-and-the-power-of-wip-limits-cfa191b541b5</a> </p>\n<p>·      <strong> Logo COMING SOON</strong> - Shutterstock. <em>Coming son signs</em>. 2026. <a href=\"https://www.shutterstock.com/es/search/coming-soon-signs?image_type=vector&dd_referrer=https%3A%2F%2Fwww.google.com%2F\">https://www.shutterstock.com/es/search/coming-soon-signs?image_type=vector&dd_referrer=https%3A%2F%2Fwww.google.com%2F</a> </p>\n<p>·       <strong>Imagen guía didáctica</strong> – Knownity. <em>Sistema Respiratorio Humano: Funciones y enfermedades.</em> 2026. <a href=\"https://knowunity.es/knows/anatoma-aparato-respiratorio-2820bb1b-fb41-4878-8657-b7debfcf5541\">https://knowunity.es/knows/anatoma-aparato-respiratorio-2820bb1b-fb41-4878-8657-b7debfcf5541</a> </p>\n<p>·       <strong>Normativa para la Sda</strong>  - <em>Anexo II: Orden 30 de mayo de 2023. Biología y Geología</em>. <a href=\"https://ws040.juntadeandalucia.es/sedeboja/web/textos-consolidados/resumen-ficha?p_p_id=resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet&p_p_lifecycle=0&_resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet_recursoLegalAbstractoId=34758\">https://ws040.juntadeandalucia.es/sedeboja/web/textos-consolidados/resumen-ficha?p_p_id=resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet&p_p_lifecycle=0&_resumenrecursolegal_WAR_sedebojatextoconsolidadoportlet_recursoLegalAbstractoId=34758 </a></p>\n<ul>\n<li><strong>VÍDEO FLIPPED-CLASSROOM</strong> - <a href=\"https://drive.google.com/file/d/1RW-C_sr2KWuYqxCDUAWDhHQ1nVwWabdL/view?usp=sharing\">https://drive.google.com/file/d/1RW-C_sr2KWuYqxCDUAWDhHQ1nVwWabdL/view?usp=sharing</a></li>\n<li> <strong>EL PROCESO RESPIRATORIO</strong> - <a href=\"https://drive.google.com/file/d/1MqTaTwSbjOHFCWGvAlzoVV_5moF7kbA6/view?usp=sharing\">https://drive.google.com/file/d/1MqTaTwSbjOHFCWGvAlzoVV_5moF7kbA6/view?usp=sharing</a></li>\n<li> <strong>Ficha REPASO Actividades APARATO RESPIRATORIO</strong> - <a href=\"https://drive.google.com/file/d/1hzc54qcahIjRW7d3qfgcA6yIka0RPWZx/view?usp=sharing\">https://drive.google.com/file/d/1hzc54qcahIjRW7d3qfgcA6yIka0RPWZx/view?usp=sharing</a></li>\n<li> <strong>Actividades REFUERZO APARATO RESPIRATORIO</strong>  - <a href=\"https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing\">https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing </a></li>\n<li><strong>REPASO ACTIVIDADES APARATO RESPIRATORIO</strong> - <a href=\"https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing\">https://drive.google.com/file/d/1Z6pq_t-He4pErvfvTAqI-X61D4Hqqg2G/view?usp=sharing </a></li>\n<li><strong>Ficha interactiva LIVEWORKSHEET</strong> - <a href=\"https://www.liveworksheets.com/es/worksheet/es/biologia/171776\">https://www.liveworksheets.com/es/worksheet/es/biologia/171776 </a></li>\n<li><strong>AUTOEVALUACIÓN APARATO RESPIRATORIO Y RESPIRACIÓN </strong>- <a href=\"https://biologia-geologia.com/BG3/45_autoevaluacion_aparato_respiratorio.html\">https://biologia-geologia.com/BG3/45_autoevaluacion_aparato_respiratorio.html </a></li>\n<li><strong>Infecciones respiratorias</strong> - <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7143692/\">https://pmc.ncbi.nlm.nih.gov/articles/PMC7143692/ </a></li>\n<li><strong>Enfermedades respiratorias</strong> - <a href=\"https://www.synlab-sd.com/es/blog/salud-y-bienestar-es/enfermedades-respiratorias-entienda-que-tipos-de-enfermedades-existen-cuales-son-sus-sintomas-y-que-debe-hacer-para-prevenirlas/\">https://www.synlab-sd.com/es/blog/salud-y-bienestar-es/enfermedades-respiratorias-entienda-que-tipos-de-enfermedades-existen-cuales-son-sus-sintomas-y-que-debe-hacer-para-prevenirlas/ </a></li>\n<li><strong>Infecciones virales respiratorias</strong> - <a href=\"https://www.mskcc.org/es/cancer-care/patient-education/respiratory-infections\">https://www.mskcc.org/es/cancer-care/patient-education/respiratory-infections</a></li>\n<li><strong> Enfermedades de los pulmones</strong> - <a href=\"https://medlineplus.gov/spanish/lungdiseases.html\">https://medlineplus.gov/spanish/lungdiseases.html </a></li>\n<li><strong>7 hábitos para que tu sistema respiratorio funcione correctamente</strong> - <a href=\"https://www.apepoc.es/actualidad/551-7-habitos-para-que-tu-sistema-respiratorio-funcione-correctamente\">https://www.apepoc.es/actualidad/551-7-habitos-para-que-tu-sistema-respiratorio-funcione-correctamente </a></li>\n</ul>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
